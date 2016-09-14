@@ -1,2 +1,5 @@
 # Deep-Learning-Class
-Repo for my deep learning class
+Repo for ELEC 677
+Class website: http://elec677.rice.edu/
+
+
